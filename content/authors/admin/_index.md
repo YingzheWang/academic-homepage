@@ -13,7 +13,7 @@ social:
     icon_pack: far
     link: /#contact
   - icon: twitter
-    icon_pack: far
+    icon_pack: fab
     link: https://twitter.com/YingzheWang1991
     display:
       header: false
