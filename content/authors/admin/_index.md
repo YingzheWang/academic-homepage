@@ -10,7 +10,7 @@ interests:
   - Micro-robotics
 social:
   - icon: envelope
-    icon_pack: far
+    icon_pack: fab
     link: /#contact
   - icon: twitter
     icon_pack: fab
@@ -18,14 +18,14 @@ social:
     display:
       header: false
   - icon: qq
-    icon_pack: far
+    icon_pack: fab
     link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
   - icon: graduation-cap
-    icon_pack: far
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=MRNgS7MAAAAJ&hl
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Yingzhe-Wang-5
 organizations:
