@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Osaka University
+    url: http://www-live.mech.eng.osaka-u.ac.jp/index.html
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
