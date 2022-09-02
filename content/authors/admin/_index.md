@@ -44,4 +44,4 @@ highlight_name: true
 ---
 Yingzhe Wang is an assistant professor of mechanical engineering at the Osaka University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yingzhewang_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
