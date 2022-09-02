@@ -25,32 +25,25 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ywang@live.mech.eng.osaka-u.ac.jp
+  phone: +81 06-6879-7344
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 2-1 Yamadaoka
+    city: Suita
+    region: Osaka, JAPAN
+    postcode: '565-0071'
+    country: Japan
+    country_code: JP
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '34.8223'
+    longitude: '135.5213'
+  directions: Enter Building M3 and take the stairs to Office 316 on Floor 3
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday ~ Friday 9:00 to 17:00'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+
+
 
 design:
   columns: '2'
