@@ -1,5 +1,5 @@
 ---
-title: Yingzhe Wang     王 颖哲
+title: Yingzhe Wang 王 颖哲
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
