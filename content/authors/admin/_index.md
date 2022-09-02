@@ -10,7 +10,7 @@ interests:
   - Micro-robotics
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
   - icon: graduation-cap
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=MRNgS7MAAAAJ&hl
   - display:
       header: false
