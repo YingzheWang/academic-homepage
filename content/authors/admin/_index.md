@@ -1,6 +1,6 @@
 ---
 title: Yingzhe Wang  (王 颖哲)
-role: Assistant Professor of Mechanical Engineering
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
