@@ -13,19 +13,21 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: fab
+    icon_pack: far
     link: https://twitter.com/YingzheWang1991
     display:
       header: false
+  - icon: qq
+    icon_pack: far
+    link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: far
+    link: https://scholar.google.com/citations?user=MRNgS7MAAAAJ&hl
+  - display:
+      header: false
+    icon_pack: far
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Yingzhe-Wang-5
 organizations:
   - name: Osaka University
     url: http://www-live.mech.eng.osaka-u.ac.jp/index.html
