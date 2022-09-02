@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include microfluidics, bio-hybrid robotics and
   micro-robotics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microfluidics
+  - Bio-hybrid robotics
+  - Micro-robotics
 social:
   - icon: envelope
     icon_pack: far
