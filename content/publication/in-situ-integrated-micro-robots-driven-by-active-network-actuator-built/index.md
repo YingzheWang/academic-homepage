@@ -25,7 +25,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - "'**Yingzhe Wang**'"
+  - Yingzhe Wangg
   - Takahiro Nitta
   - Yuichi Hiratsuka
   - Keisuke Morishima
