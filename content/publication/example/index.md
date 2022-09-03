@@ -23,7 +23,6 @@ abstract: Microrobots have been developed for applications in the submillimeter
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
   - "2"
 authors:
   - Yingzhe Wang
@@ -51,7 +50,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: scirobotics.webp
-date: 2013-07-01T00:00:00.000Z
+date: 2022-08-03T02:24:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
