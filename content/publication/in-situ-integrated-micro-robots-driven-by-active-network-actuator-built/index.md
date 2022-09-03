@@ -46,7 +46,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://www.science.org/toc/scirobotics/7/69)"
+  caption: "Image credit: https://www.science.org/toc/scirobotics/7/69"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
