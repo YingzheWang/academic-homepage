@@ -1,16 +1,16 @@
 ---
-title: A printable active network actuator built from an engineered biomolecular
-  motor.
+title: A printable active network actuator built from an engineered biomolecular motor
 publication_types:
   - "2"
 authors:
   - Takahiro Nitta
   - Yingzhe Wang
   - Zhao Du
-  - Keisuke Morishima & Yuichi Hiratsuka
+  - Keisuke Morishima
+  - Yuichi Hiratsuka
 doi: https://doi.org/10.1038/s41563-021-00969-6
-publication: Nature Materials
-publication_short: Nat. Mater.
+publication: "*Nature Materials, 20*(8)"
+publication_short: ""
 abstract: Leveraging the motion and force of individual molecular motors in a
   controlled manner to perform macroscopic tasks can provide substantial
   benefits to many applications, including robotics. Nonetheless, although
