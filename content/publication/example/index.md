@@ -1,79 +1,65 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Microrobots have been developed for applications in the submillimeter
+  domain such as the manipulation of micro-objects and microsurgery. Rapid
+  progress has been achieved in developing miniaturized components for
+  microrobotic systems, resulting in a variety of functional microactuators and
+  soft components for creating untethered microrobots. Nevertheless, the
+  integration of microcomponents, especially the assembly of actuators and
+  mechanical components, is still time-consuming and has inherent restrictions,
+  thus limiting efficient fabrications of microrobots and their potential
+  applications. Here, we propose a method for fabricating microrobots in situ
+  inspired by the construction of microsystems in living organisms. In a
+  microfluidic chip, hydrogel mechanical components and artificial muscle
+  actuators are successively photopatterned from hydrogel prepolymer and
+  biomolecular motors, respectively, and integrated in situ into functional
+  microrobots. The proposed method allows the fast fabrication of microrobots
+  through simple operations and affordable materials while providing versatile
+  functions through the precise spatiotemporal control of in situ integration
+  and reconfiguration of artificial muscles. To validate the method, we
+  fabricated microrobots to elicit different motions and on-chip robots with
+  unique characteristics for microfluidic applications. This study may establish
+  a new paradigm for microrobot integration and lead to the production of unique
+  biohybrid microrobots with various advantages.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Wang
+  - Y.
+  - Nitta
+  - T.
+  - Hiratsuka
+  - Y.
+  - "& Morishima"
+  - K.
+author_notes: []
+publication: Science Robotics
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: Sci. Rob.
+url_source: ""
+url_video: ""
+title: In situ integrated micro-robots driven by active network actuator built
+  from biomolecular motors.
+doi: https://doi.org/10.1126/scirobotics.aba8212
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://www.science.org/toc/scirobotics/7/69)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: scirobotics.webp
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
