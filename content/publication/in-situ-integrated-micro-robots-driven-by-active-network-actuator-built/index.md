@@ -40,7 +40,7 @@ publication_short: null
 url_source: ""
 url_video: ""
 title: In situ integrated micro-robots driven by active network actuator built
-  from biomolecular motors.
+  from biomolecular motors
 doi: https://doi.org/10.1126/scirobotics.aba8212
 featured: true
 tags: []
