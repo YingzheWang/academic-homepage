@@ -27,8 +27,7 @@ publication_types:
 authors:
   - Yingzhe Wang
   - Takahiro Nitta
-  - Yuichi Hiratsuka
-  - and Keisuke Morishima
+  - Yuichi Hiratsuka & Keisuke Morishima
 author_notes: []
 publication: Science Robotics
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -49,7 +48,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://www.science.org/toc/scirobotics/7/69)"
   focal_point: ""
   preview_only: false
-  filename: scirobotics.webp
+  filename: scirobotics.jpg
 date: 2022-08-03T02:24:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
