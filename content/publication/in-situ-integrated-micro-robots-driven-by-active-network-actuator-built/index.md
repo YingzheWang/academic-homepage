@@ -49,7 +49,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://www.science.org/toc/scirobotics/7/69)"
   focal_point: ""
   preview_only: false
-  filename: scirobotics.jpg
+  filename: featured.jpg
 date: 2022-08-24T02:24:00.000Z
 url_slides: ""
 publishDate: 2022-08-24T00:00:00.000Z
