@@ -27,15 +27,16 @@ publication_types:
 authors:
   - Yingzhe Wang
   - Takahiro Nitta
-  - Yuichi Hiratsuka & Keisuke Morishima
+  - Yuichi Hiratsuka
+  - Keisuke Morishima
 author_notes: []
-publication: Science Robotics
+publication: '*Science Robotics, 7*(69)'
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: Sci. Rob.
+publication_short:
 url_source: ""
 url_video: ""
 title: In situ integrated micro-robots driven by active network actuator built
@@ -49,9 +50,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: scirobotics.jpg
-date: 2022-08-03T02:24:00.000Z
+date: 2022-08-24T02:24:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2022-08-24T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
