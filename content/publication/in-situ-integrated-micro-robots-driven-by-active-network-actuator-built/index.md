@@ -30,13 +30,13 @@ authors:
   - Yuichi Hiratsuka
   - Keisuke Morishima
 author_notes: []
-publication: '*Science Robotics, 7*(69)'
+publication: "*Science Robotics, 7*(69)"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short:
+publication_short: null
 url_source: ""
 url_video: ""
 title: In situ integrated micro-robots driven by active network actuator built
@@ -49,7 +49,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://www.science.org/toc/scirobotics/7/69)"
   focal_point: ""
   preview_only: false
-  filename: scirobotics.jpg
+  filename: ""
 date: 2022-08-24T02:24:00.000Z
 url_slides: ""
 publishDate: 2022-08-24T00:00:00.000Z
