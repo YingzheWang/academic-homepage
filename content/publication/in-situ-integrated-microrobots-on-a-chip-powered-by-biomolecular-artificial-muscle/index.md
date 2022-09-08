@@ -9,7 +9,7 @@ authors:
   - Takahiro Nitta
   - Keisuke Morishima
 doi: 10.1109/MEMS51670.2022.9699583
-publication: "*2022 IEEE 35th International Conference on Micro Electro
+publication: "In *2022 IEEE 35th International Conference on Micro Electro
   Mechanical Systems Conference (MEMS)*"
 draft: false
 featured: false
