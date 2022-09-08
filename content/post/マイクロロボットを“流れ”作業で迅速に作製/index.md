@@ -23,4 +23,11 @@ image:
 
 本研究成果は、2022年8月24日午後2時（米国時間）に発行される科学雑誌「Science Robotics」の表紙を飾りました。
 
+
+
+* https://resou.osaka-u.ac.jp/ja/research/2022/20220825_3
+* https://www.gifu-u.ac.jp/news/research/2022/08/entry26-11797.html
+* https://news.mynavi.jp/techplus/article/20220831-2439217/
+* https://www.excite.co.jp/news/article/Cobs_2470978/
+
 <!--EndFragment-->
