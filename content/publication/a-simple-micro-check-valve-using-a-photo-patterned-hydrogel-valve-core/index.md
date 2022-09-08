@@ -8,7 +8,7 @@ authors:
   - Kaoru Uesugi
   - Keisuke Morishima
 doi: https://doi.org/10.1016/j.sna.2020.111878
-publication: "*Sensors and Actuators A: Physical* 304"
+publication: "*Sensors and Actuators A: Physical, 304*"
 abstract: Micro check valves play a pivotal role in many microfluidic systems.
   However, there is still an unmet need for low-cost check valves with good
   performance and easy integration. In this work, we present a planar micro
