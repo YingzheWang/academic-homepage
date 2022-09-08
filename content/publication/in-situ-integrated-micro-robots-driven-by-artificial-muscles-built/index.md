@@ -25,7 +25,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Yingzhe Wang
+  - admin
   - Takahiro Nitta
   - Yuichi Hiratsuka
   - Keisuke Morishima
@@ -37,7 +37,8 @@ url_project: ""
 publication_short: null
 url_source: ""
 url_video: ""
-title: In situ integrated microrobots driven by artificial muscles built from biomolecular motors
+title: In situ integrated microrobots driven by artificial muscles built from
+  biomolecular motors
 doi: https://doi.org/10.1126/scirobotics.aba8212
 featured: true
 tags: []
