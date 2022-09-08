@@ -4,13 +4,13 @@ title: In-situ integrated microrobots on a chip powered by biomolecular
 publication_types:
   - "1"
 authors:
-  - Yingzhe Wang
+  - admin
   - Yuichi Hiratsuka
   - Takahiro Nitta
   - Keisuke Morishima
 doi: 10.1109/MEMS51670.2022.9699583
-publication: "In *2022 IEEE 35th International Conference on Micro Electro
-  Mechanical Systems Conference (MEMS)*"
+publication: In *2022 IEEE 35th International Conference on Micro Electro
+  Mechanical Systems Conference (MEMS)*
 draft: false
 featured: false
 image:
