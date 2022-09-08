@@ -10,7 +10,7 @@ summary: |-
 draft: false
 featured: false
 categories:
-  - News
+  - Research News
 image:
   filename: featured.png
   focal_point: Smart
