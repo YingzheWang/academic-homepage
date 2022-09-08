@@ -5,8 +5,12 @@ date: 2022-08-25T16:44:37.548Z
 summary: |-
   * https://resou.osaka-u.ac.jp/ja/research/2022/20220825_3
   * https://www.gifu-u.ac.jp/news/research/2022/08/entry26-11797.html
+  * https://news.mynavi.jp/techplus/article/20220831-2439217/
+  * https://www.excite.co.jp/news/article/Cobs_2470978/
 draft: false
 featured: false
+categories:
+  - Research
 image:
   filename: featured.png
   focal_point: Smart
