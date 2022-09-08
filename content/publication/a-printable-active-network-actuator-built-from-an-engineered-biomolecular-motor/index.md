@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Takahiro Nitta
-  - Yingzhe Wang
+  - admin
   - Zhao Du
   - Keisuke Morishima
   - Yuichi Hiratsuka
