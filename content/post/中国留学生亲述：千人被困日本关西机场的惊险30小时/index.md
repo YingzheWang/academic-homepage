@@ -1,6 +1,6 @@
 ---
 title: "中国留学生亲述：千人被困日本关西机场的惊险30小时 "
-date: 2022-09-09T18:01:45.949Z
+date: 2018-09-06T04:00:45.949Z
 summary: |-
   * https://www.sohu.com/a/252285192_561670
   * https://www.chinanews.com.cn/gj/2018/09-06/8620498.shtml
