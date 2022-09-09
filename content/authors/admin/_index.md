@@ -1,5 +1,5 @@
 ---
-title: Yingzhe Wang (王 颖哲)
+title: Yingzhe Wang (王颖哲)
 role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include microfluidics, bio-hybrid robotics and
