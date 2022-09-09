@@ -43,7 +43,7 @@ item:
     date_end: ''
     date_start: '2013-06-30'
     description: ''
-    organization: Zhejiang_University
+    organization: Zhejiang University
     organization_url: https://www.zju.edu.cn/
     title: Excellent Graduation Thesis of Zhejiang University.
     url: ''
@@ -51,7 +51,7 @@ item:
     date_end: 
     date_start: '2012-07-01'
     description: ''
-    organization: Zhejiang_SUPCON_Technology_Co_Ltd
+    organization: Zhejiang SUPCON Technology Co Ltd
     organization_url: http://www.supcon.com/
     title: The Third Prize in the 7th SUPCON Robot Competition
     url: ''
