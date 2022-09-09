@@ -30,11 +30,10 @@ experience:
     date_start: '2021-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      Reponsibility:
+      * Research on microrobots driven by artificial muscles
+      * Manage the daily work of the Lab
+      * Guide students' research
 
   - title: Specially Appointed Researcher (Part time)
     company: Osaka University
@@ -43,7 +42,7 @@ experience:
     location: Osaka, JAPAN
     date_start: '2020-10-01'
     date_end: '2021-03-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Research on the application of molecular motors in robotics and micro-machining.
 
 design:
   columns: '2'

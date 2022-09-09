@@ -17,17 +17,30 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: c programming
+    icon_pack: custom
+    name: C programming
+  - description: 60%
+    icon: matlab
+    icon_pack: custom
+    name: MATLAB
+  - description: 20%
+    icon: Python
+    icon_pack: custom
+    name: Python
+  - description: 90%
+    icon: labview
+    icon_pack: custom
+    name: LabVIEW
+  - description: 90%
+    icon: solidworks
+    icon_pack: custom
+    name: SolidWorks
+  - description: 60%
+    icon: comsol
+    icon_pack: custom
+    name: COMSOL
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

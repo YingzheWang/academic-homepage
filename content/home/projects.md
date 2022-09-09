@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Microfluidics
+      tag: Microfluidics
+    - name: Bio-hybrid robotics
+      tag: Bio-hybrid robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
