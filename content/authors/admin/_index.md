@@ -1,6 +1,6 @@
 ---
 title: Yingzhe Wang (王颖哲)
-role: Assistant Professor
+role: Specially Appointed Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include microfluidics, bio-hybrid robotics and
   micro-robotics.
@@ -46,6 +46,6 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-Yingzhe Wang is an assistant professor of mechanical engineering at the Osaka University. His research interests include microrobotics, bio-hybrid robotics and micro-robotics. He works in the Morishima Lab, which develops bio-hybrid wet robots, cyborg insects, and microfluidic devices.
+Yingzhe Wang is a specially appointed researcher at the Osaka University. His research interests include microrobotics, bio-hybrid robotics and micro-robotics. He works in the Morishima Lab, which develops bio-hybrid wet robots, cyborg insects, and microfluidic devices.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yingzhewang_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
