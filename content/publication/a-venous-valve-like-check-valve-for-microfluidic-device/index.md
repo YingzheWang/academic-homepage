@@ -10,7 +10,7 @@ authors:
 publication: "*22nd International Conference on Miniaturized Systems for
   Chemistry and Life Sciences, µTAS 2018*"
 abstract: In this paper, we proposed a new venous valve-like
-  check-valve(V<sub>2CV) for microfluidic device which consist of two valve
+  check-valve(V<sup>2<sup>CV) for microfluidic device which consist of two valve
   flaps made from PDMS. Compared to conventional check valves in microfluidic
   devices, this V2CV has simpler structure and easier fabrication, make it
   possible to be applied in different kinds of microfluidic devices. Experiments
