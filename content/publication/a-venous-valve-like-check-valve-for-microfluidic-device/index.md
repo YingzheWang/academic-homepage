@@ -11,6 +11,8 @@ publication: "*22nd International Conference on Miniaturized Systems for
   Chemistry and Life Sciences, µTAS 2018*"
 draft: false
 featured: false
+projects:
+  - A venous valve-like micro check valve
 image:
   filename: featured
   focal_point: Smart
