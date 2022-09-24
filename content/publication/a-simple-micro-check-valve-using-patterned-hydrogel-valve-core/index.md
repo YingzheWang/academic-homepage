@@ -2,6 +2,10 @@
 title: A Simple Micro Check Valve Using Patterned Hydrogel Valve Core
 publication_types:
   - "1"
+authors:
+  - Yingzhe Wang
+  - Kaoru Uesugi
+  - Keisuke Morishima
 draft: false
 featured: false
 image:
