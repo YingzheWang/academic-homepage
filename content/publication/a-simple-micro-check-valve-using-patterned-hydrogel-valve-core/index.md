@@ -8,7 +8,7 @@ authors:
   - Keisuke Morishima
 doi: 10.1109/MEMSYS.2019.8870633
 publication: "*2019 IEEE 32nd International Conference on Micro Electro
-  Mechanical Systems (MEMS)* (pp. 347-349)"
+  Mechanical Systems (MEMS)*"
 abstract: In this paper, we present a simple in-plane micro check valve using a
   hydrogel valve core fabricated by photolithography. Compared to early micro
   check valves with multilayered structure, this simple structured valve is much
