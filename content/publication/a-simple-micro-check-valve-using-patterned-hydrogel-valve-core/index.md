@@ -22,7 +22,7 @@ abstract: In this paper, we present a simple in-plane micro check valve using a
 draft: false
 featured: false
 projects:
-  - Micro check valve using a hydrogel valve core
+  - Micro
 image:
   filename: featured
   focal_point: Smart
