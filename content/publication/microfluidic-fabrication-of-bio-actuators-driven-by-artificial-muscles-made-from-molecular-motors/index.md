@@ -2,7 +2,7 @@
 title: Microfluidic fabrication of bio-actuators driven by artificial muscles
   made from molecular motors
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
   - Yuichi Hiratsuka
