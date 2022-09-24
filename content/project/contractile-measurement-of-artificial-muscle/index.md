@@ -4,7 +4,7 @@ date: 2018-04-01T00:58:25.364Z
 draft: false
 featured: false
 tags:
-  - Bio-hybrid Robotics
+  - Bio-hybrid robotics
 image:
   filename: featured
   focal_point: Smart

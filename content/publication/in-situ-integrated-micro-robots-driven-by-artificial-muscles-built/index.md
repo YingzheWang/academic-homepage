@@ -42,7 +42,9 @@ title: In situ integrated microrobots driven by artificial muscles built from
 doi: https://doi.org/10.1126/scirobotics.aba8212
 featured: true
 tags: []
-projects: []
+url_pdf: https://www.science.org/stoken/author-tokens/ST-745/full
+projects:
+  - microfluidic-fabrication-of-bio-actuators-driven-by-artificial-muscle
 image:
   caption: "Image credit: https://www.science.org/toc/scirobotics/7/69"
   focal_point: ""

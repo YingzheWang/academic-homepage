@@ -18,8 +18,9 @@ abstract: In this paper, we proposed a new venous valve-like
   flow and blocking reverse flow.
 draft: false
 featured: false
+url_pdf: uploads/publications/PG0688.pdf
 projects:
-  - A venous valve-like micro check valve
+  - a-venous-valve-like-micro-check-valve
 image:
   filename: featured
   focal_point: Smart

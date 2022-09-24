@@ -26,6 +26,8 @@ abstract: Micro check valves play a pivotal role in many microfluidic systems.
   makes the flow control more simplified in integrated microfluidic systems.
 draft: false
 featured: false
+projects:
+  - micro-check-valve-using-a-hydrogel-valve-core
 image:
   filename: featured
   focal_point: Smart
