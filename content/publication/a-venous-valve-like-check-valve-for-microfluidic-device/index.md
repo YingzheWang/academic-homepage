@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yoshiharu Bessho
-  - Yingzhe Wang
+  - admin
   - Kaoru Uesugi
   - Keisuke Morishima
 publication: "*22nd International Conference on Miniaturized Systems for
