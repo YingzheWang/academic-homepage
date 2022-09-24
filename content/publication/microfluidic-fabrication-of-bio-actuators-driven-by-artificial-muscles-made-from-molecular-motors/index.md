@@ -11,6 +11,14 @@ authors:
   - Keisuke Morishima
 publication: "*23rd International Conference on Miniaturized Systems for
   Chemistry and Life Sciences, µTAS 2019*"
+abstract: In this paper, we developed a microfluidic chip based method for
+  fabrication of bio-actuators driven by artificial muscles made from molecular
+  motors. Different from conventional complex methods, we integrates the
+  fabrication and actuation of bio-actuators into a single microfluidic chip
+  using UV-induced projection printing with a maskless optical system. A
+  micro-gripper was fabricated and actuated in a microfluidic chip as an example
+  of application. This low-cost and easy-operated method is able to make
+  different kinds of bio-actuators for microfluidic devices.
 draft: false
 featured: false
 image:
