@@ -1,8 +1,10 @@
 ---
 title: Contractile Measurement of artificial muscle
-date: 2022-09-24T16:58:25.364Z
+date: 2018-04-01T00:58:25.364Z
 draft: false
 featured: false
+tags:
+  - Bio-hybrid Robotics
 image:
   filename: featured
   focal_point: Smart
