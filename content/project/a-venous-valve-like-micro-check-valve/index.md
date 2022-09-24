@@ -7,7 +7,8 @@ tags:
   - Microfluidics
 categories: []
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Principle of the micro check valve
 ---
