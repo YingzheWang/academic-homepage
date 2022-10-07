@@ -1,6 +1,6 @@
 ---
 title: Yingzhe Wang (王颖哲)
-role: Specially Appointed Researcher
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include microfluidics, bio-hybrid robotics and
   micro-robotics.
