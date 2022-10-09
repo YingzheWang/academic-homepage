@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor 
+    company: Osaka University
+    company_url: ''
+    company_logo: osaka-u
+    location: Osaka, JAPAN
+    date_start: '2022-11-01'
+    date_end: ''
+    description: |2-
+      Reponsibility:
+      * Asist Professor in teaching
+      * Research on microrobots driven by artificial muscles
+      * Manage the daily work of the Lab
+      * Guide students' research
+
   - title: Specially Appointed Researcher (Full time)
     company: Osaka University
     company_url: ''
     company_logo: osaka-u
     location: Osaka, JAPAN
     date_start: '2021-10-01'
-    date_end: ''
+    date_end: '2022-10-31'
     description: |2-
       Reponsibility:
       * Research on microrobots driven by artificial muscles
