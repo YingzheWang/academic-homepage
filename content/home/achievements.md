@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: uploads/achievements certifcate/若手研究奨励賞.pdf
+    date_end: ''
+    date_start: '2022-11-13'
+    description: ''
+    organization: molbot
+    organization_url: https://molbot.org/
+    title: 第6回分子ロボティクス年次大会若手研究奨励賞
+    url: ''
   - certificate_url: uploads/achievements certifcate/poster_award_certufucate.pdf
     date_end: ''
     date_start: '2022-05-27'
