@@ -8,6 +8,8 @@ summary: |-
   * https://zjnews.zjol.com.cn/system/2012/08/24/018759344.shtml
 draft: false
 featured: false
+categories:
+  - Personal News
 image:
   filename: featured
   focal_point: Smart
