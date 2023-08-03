@@ -1,61 +1,45 @@
 ---
-abstract: Microrobots have been developed for applications in the submillimeter
-  domain such as the manipulation of micro-objects and microsurgery. Rapid
-  progress has been achieved in developing miniaturized components for
-  microrobotic systems, resulting in a variety of functional microactuators and
-  soft components for creating untethered microrobots. Nevertheless, the
-  integration of microcomponents, especially the assembly of actuators and
-  mechanical components, is still time-consuming and has inherent restrictions,
-  thus limiting efficient fabrications of microrobots and their potential
-  applications. Here, we propose a method for fabricating microrobots in situ
-  inspired by the construction of microsystems in living organisms. In a
-  microfluidic chip, hydrogel mechanical components and artificial muscle
-  actuators are successively photopatterned from hydrogel prepolymer and
-  biomolecular motors, respectively, and integrated in situ into functional
-  microrobots. The proposed method allows the fast fabrication of microrobots
-  through simple operations and affordable materials while providing versatile
-  functions through the precise spatiotemporal control of in situ integration
-  and reconfiguration of artificial muscles. To validate the method, we
-  fabricated microrobots to elicit different motions and on-chip robots with
-  unique characteristics for microfluidic applications. This study may establish
-  a new paradigm for microrobot integration and lead to the production of unique
-  biohybrid microrobots with various advantages.
-slides: ""
-url_pdf: ""
+title: Developing Thick Cardiac Tissue with a Multilayer fiber Sheet for
+  Treating Myocardial Infarction
 publication_types:
   - "2"
 authors:
-  - admin
-  - Takahiro Nitta
-  - Yuichi Hiratsuka
+  - Junjun Li
+  - Xiang Qu
+  - Li Liu
+  - Lingjun Li
+  - Ying Hua
+  - Jingbo Zhang
+  - Masako Ishida
+  - Noriko Yoshida
+  - Akiko Tabata
+  - Nagako Sougawa
+  - Emiko Ito
+  - Noriko Mochizuki-Oda
+  - Akima Harada
+  - Takuji Kawamura
+  - Ryohei Matsuura
+  - Yingzhe Wang
   - Keisuke Morishima
-author_notes: []
-publication: "*Science Robotics, 7*(69)"
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: null
-url_source: ""
-url_video: ""
-title: In situ integrated microrobots driven by artificial muscles built from
-  biomolecular motors
-doi: https://doi.org/10.1126/scirobotics.aba8212
-featured: true
-tags: []
-url_pdf: https://www.science.org/stoken/author-tokens/ST-745/full
-projects:
-  - microfluidic-fabrication-of-bio-actuators-driven-by-artificial-muscle
-image:
-  caption: "Image credit: https://www.science.org/toc/scirobotics/7/69"
-  focal_point: ""
-  preview_only: false
-  filename: featured.jpg
-date: 2022-08-24T02:24:00.000Z
-url_slides: ""
-publishDate: 2022-08-24T00:00:00.000Z
-url_poster: ""
-url_code: ""
+  - Shigeru Miyagawa
+  - Yoshiki Sawa
+doi: https://doi.org/10.1007/s42765-023-00313-4
+abstract: Human-induced pluripotent stem cell (hiPSC)-derived cardiac patches
+  have been extensively used for treating myocardial infarction and have shown
+  potential for clinical application. However, the limited patch thickness can
+  hamper its therapeutic effect. We previously developed a fibrous scaffold that
+  allowed the formation of well-organized cardiac tissue constructs. In the
+  present study, based on the above technology, we developed a three-dimensional
+  multilayer fibrous scaffold with dynamic perfusion, on which approximately 20
+  million hiPSC-derived cardiomyocytes (CMs) could be seeded in a single step
+  and organized into 1 mm thick and viable tissue. The multilayer cardiac tissue
+  demonstrated enhanced contractile properties and upregulated cytokine
+  secretion compared with the control group. Notably, when used on the
+  myocardial infarction model, the multilayer group showed improved functional
+  recovery and less fibrosis. These results indicated that the appropriate
+  hiPSC-CM dose requires careful evaluation in developing clinical therapy. The
+  multilayer cardiac tissue group demonstrated significant improvement than the
+  control group, indicating that higher doses of transplanted cells may have
+  improved therapeutic effects in treating myocardial infarction.
+date: 2023-07-31T01:39:16.118Z
 ---
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
