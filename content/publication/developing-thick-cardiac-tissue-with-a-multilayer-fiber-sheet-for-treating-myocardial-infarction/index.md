@@ -24,7 +24,7 @@ authors:
   - Shigeru Miyagawa
   - Yoshiki Sawa
 doi: https://doi.org/10.1007/s42765-023-00313-4
-publication: "*Advanced Fiber Materials, *(2023)"
+publication: "*Advanced Fiber Materials,* (2023)"
 abstract: >+
   Human-induced pluripotent stem cell (hiPSC)-derived cardiac patches have been
   extensively used for treating myocardial infarction and have shown potential
