@@ -19,7 +19,7 @@ authors:
   - Akima Harada
   - Takuji Kawamura
   - Ryohei Matsuura
-  - Yingzhe Wang
+  - admin
   - Keisuke Morishima
   - Shigeru Miyagawa
   - Yoshiki Sawa
