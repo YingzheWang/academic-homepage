@@ -46,6 +46,8 @@ abstract: >+
 
 draft: false
 featured: false
+projects:
+  - Microfluidic fabrication of bio-actuators driven by artificial muscle
 image:
   filename: featured
   focal_point: Smart
