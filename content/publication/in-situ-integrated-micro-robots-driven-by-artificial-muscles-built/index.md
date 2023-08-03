@@ -9,7 +9,7 @@ authors:
   - Yuichi Hiratsuka
   - Keisuke Morishima
 doi: 10.1126/scirobotics.aba8212
-publication: "*Advanced Fiber Materials, (2023)"
+publication: "*Science Robotics, 7(69)"
 abstract: Microrobots have been developed for applications in the submillimeter
   domain such as the manipulation of micro-objects and microsurgery. Rapid
   progress has been achieved in developing miniaturized components for
