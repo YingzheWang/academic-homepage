@@ -31,5 +31,7 @@ abstract: Microrobots have been developed for applications in the submillimeter
   unique characteristics for microfluidic applications. This study may establish
   a new paradigm for microrobot integration and lead to the production of unique
   biohybrid microrobots with various advantages.
+projects:
+  - Microfluidic fabrication of bio-actuators driven by artificial muscle
 date: 2022-08-24T01:39:16.118Z
 ---
