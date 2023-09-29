@@ -1,5 +1,5 @@
 ---
-title: Contractile measurement of artificial muscle
+title: Contractile measurement of biomolecular artificial muscle
 date: 2018-04-01T00:58:25.364Z
 draft: false
 featured: false
