@@ -23,7 +23,7 @@ draft: false
 featured: false
 url_pdf: uploads/publications/PG0241.pdf
 projects:
-  - microfluidic-fabrication-of-bio-actuators-driven-by-artificial-muscle
+  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
 image:
   filename: featured
   focal_point: Smart

@@ -20,7 +20,7 @@ draft: false
 featured: false
 url_pdf: uploads/publications/PG0688.pdf
 projects:
-  - a-venous-valve-like-micro-check-valve
+  - venous-valve-like-micro-check-valve
 image:
   filename: featured
   focal_point: Smart

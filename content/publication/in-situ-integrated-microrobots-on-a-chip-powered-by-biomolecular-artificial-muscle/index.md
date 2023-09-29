@@ -14,7 +14,7 @@ publication: In *2022 IEEE 35th International Conference on Micro Electro
 draft: false
 featured: false
 projects:
-  - microfluidic-fabrication-of-bio-actuators-driven-by-artificial-muscle
+  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
 image:
   filename: featured
   focal_point: Smart

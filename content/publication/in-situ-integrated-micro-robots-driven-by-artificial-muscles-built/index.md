@@ -33,6 +33,6 @@ authors:
 doi: 10.1126/scirobotics.aba8212
 publication: "*Science Robotics, 7*(69)"
 projects:
-  - micro-actuators/robots-driven-by-biomolecular-artificial-muscle
+  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
 date: 2022-08-24T01:39:16.118Z
 ---
