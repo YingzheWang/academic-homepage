@@ -1,15 +1,4 @@
 ---
-title: In situ integrated microrobots driven by artificial muscles built from
-  biomolecular motors
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Takahiro Nitta
-  - Yuichi Hiratsuka
-  - Keisuke Morishima
-doi: 10.1126/scirobotics.aba8212
-publication: "*Science Robotics, 7*(69)"
 abstract: Microrobots have been developed for applications in the submillimeter
   domain such as the manipulation of micro-objects and microsurgery. Rapid
   progress has been achieved in developing miniaturized components for
@@ -31,8 +20,19 @@ abstract: Microrobots have been developed for applications in the submillimeter
   unique characteristics for microfluidic applications. This study may establish
   a new paradigm for microrobot integration and lead to the production of unique
   biohybrid microrobots with various advantages.
-url_pdf: "https://www.science.org/stoken/author-tokens/ST-745/full"
+url_pdf: https://www.science.org/stoken/author-tokens/ST-745/full
+title: In situ integrated microrobots driven by artificial muscles built from
+  biomolecular motors
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Takahiro Nitta
+  - Yuichi Hiratsuka
+  - Keisuke Morishima
+doi: 10.1126/scirobotics.aba8212
+publication: "*Science Robotics, 7*(69)"
 projects:
-  - microfluidic-fabrication-of-bio-actuators-driven-by-artificial-muscle
+  - micro-actuators/robots-driven-by-biomolecular-artificial-muscle
 date: 2022-08-24T01:39:16.118Z
 ---
