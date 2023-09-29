@@ -1,5 +1,5 @@
 ---
-title: A venous valve-like micro check valve
+title: Venous valve-like micro check valve
 date: 2017-04-01T00:23:05.061Z
 draft: false
 featured: false
