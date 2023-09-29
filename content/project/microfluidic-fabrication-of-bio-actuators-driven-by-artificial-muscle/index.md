@@ -1,5 +1,5 @@
 ---
-title: Microfluidic fabrication of bio-actuators driven by artificial muscle
+title: Micro actuators/robots driven by biomolecular artificial muscle
 date: 2018-04-01T01:03:55.624Z
 draft: false
 featured: false
