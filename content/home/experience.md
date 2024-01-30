@@ -54,7 +54,7 @@ experience:
     company_url: ''
     company_logo: osaka-u
     location: Osaka, JAPAN
-    date_start: '2020-10-01'
+    date_start: '2019-10-01'
     date_end: '2021-03-31'
     description: Research on the application of molecular motors in robotics and micro-machining.
 
