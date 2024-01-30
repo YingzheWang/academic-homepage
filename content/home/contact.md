@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: ywang@live.mech.eng.osaka-u.ac.jp
-  phone: +81 06-6879-7344
+  phone: +81 06-6879-7345
   address:
     street: 2-1 Yamadaoka
     city: Suita
