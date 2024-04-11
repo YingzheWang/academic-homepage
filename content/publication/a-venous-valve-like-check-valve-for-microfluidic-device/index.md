@@ -8,7 +8,7 @@ authors:
   - Kaoru Uesugi
   - Keisuke Morishima
 publication: "*22nd International Conference on Miniaturized Systems for
-  Chemistry and Life Sciences, µTAS 2018*"
+  Chemistry and Life Sciences (µTAS 2018)*"
 abstract: In this paper, we proposed a new venous valve-like
   check-valve(V<sup>2</sup>CV) for microfluidic device which consist of two
   valve flaps made from PDMS. Compared to conventional check valves in
@@ -17,8 +17,8 @@ abstract: In this paper, we proposed a new venous valve-like
   devices. Experiments were carried out to test its capacity of allowing forward
   flow and blocking reverse flow.
 draft: false
-featured: false
 url_pdf: uploads/publications/PG0688.pdf
+featured: false
 projects:
   - venous-valve-like-micro-check-valve
 image:
