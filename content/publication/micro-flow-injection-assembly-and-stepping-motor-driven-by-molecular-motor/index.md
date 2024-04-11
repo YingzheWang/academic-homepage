@@ -11,16 +11,7 @@ authors:
 publication: "*2023 45th Annual International Conference of the IEEE Engineering
   in Medicine and Biology Society (EMBC)*"
 publication_short: ""
-abstract: In this research, we proposed a method for fabricating microrobots by
-  in-situ integrating photo-patterned artificial muscle actuators with
-  photo-patterned hydrogel mechanisms in microfluidics. Compared to conventional
-  methods, our method greatly reduces the time and difficulty of the
-  integration, and thereby increases the efficiency and flexibility of the
-  fabrication. Meanwhile, this in-situ can be controlled with high spatial
-  precision and allows for rapid reconfiguration of actuators. Different
-  microrobots were fabricated to perform motions including gripping, cyclic
-  swinging, and walking. The results demonstrated the effectiveness and
-  versatility of the proposed method.
+abstract: ""
 draft: false
 featured: false
 projects:
