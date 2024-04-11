@@ -4,16 +4,13 @@ title: A microfluidic docking assembled rotational actuator driven by
 publication_types:
   - "1"
 authors:
-  - Takahashi
-  - M.
-  - Wang
-  - Y.
-  - Nitta
-  - T.
-  - Hiratsuka
-  - Y.
-  - "& Morishima"
-  - K
+  - Masakiyo Takahashi
+  - Admin
+  - Yuichi Hiratsuka
+  - Takahiro Nitta
+  - Keisuke Morishima
+publication: "*27rd International Conference on Miniaturized Systems for
+  Chemistry and Life Sciences (µTAS 2023)*"
 draft: false
 featured: false
 projects:
@@ -22,5 +19,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-04-11T12:30:11.977Z
+date: 2023-10-30T12:30:11.977Z
 ---
