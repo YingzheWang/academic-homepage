@@ -33,7 +33,7 @@ abstract: A printable artificial muscle assembled from biomolecular motors,
 draft: false
 featured: false
 projects:
-  - Contractile measurement of biomolecular artificial muscle
+  - contractile-measurement-of-biomolecular-artificial-muscle
 image:
   filename: featured
   focal_point: Smart
