@@ -10,6 +10,8 @@ authors:
 publication: "*2024 IEEE International Conference on Robotics and Automation (ICRA)*"
 draft: false
 featured: false
+projects:
+  - analysis-of-plant-ultrafine-substances
 image:
   filename: featured
   focal_point: Smart
