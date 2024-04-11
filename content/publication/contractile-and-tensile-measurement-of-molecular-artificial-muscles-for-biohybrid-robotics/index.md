@@ -32,6 +32,8 @@ abstract: A printable artificial muscle assembled from biomolecular motors,
   the foundations for its further application in biohybrid robotics.
 draft: false
 featured: false
+projects:
+  - Contractile measurement of biomolecular artificial muscle
 image:
   filename: featured
   focal_point: Smart
