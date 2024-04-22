@@ -8,11 +8,7 @@ summary: >-
   Researchers at Osaka University develop a method of the assembly, integration for 3D-printing soft modular reconfigurable microrobots based on self organized biomolecular motor muscles, which may lead to advances in nanotechnology and microsurgery.
 
 
-  * https://www.eurekalert.org/news-releases/971657
-
-  * https://www.alphagalileo.org/en-gb/Item-Display/ItemId/227658
-
-  * https://www.asiaresearchnews.com/content/microrobot-assembly-line
+  * https://resou.osaka-u.ac.jp/en/research/2022/20220825_3
 
 
   <!--EndFragment-->
@@ -36,6 +32,10 @@ Now, a team of researchers, including Morishima and Wang at Osaka University, Hi
 The team’s “assembly line” approach permitted them to combine various modules, such as joints, grippers, or artificial muscles, into a single device. The successful integration of different functions may for a wide variety of microrobots with scalable mass production. For this work, the researchers demonstrated several different types, including a gripper, a fish, and a robot arm. “Our in situ integration of actuators and mechanical structures improved the flexibility and efficiency of microrobot fabrication, which may help realize the currently difficult problem of mass production,” senior author Keisuke Morishima says. In addition to healthcare applications, these robots can also help in the fabrication of yet more complex robots, by acting as microfluidic valve or manipulators.
 
 The article, “In situ integrated microrobots driven by artificial muscles built from biomolecular motors” was published in Science Robotics at DOI: https://www.science.org/doi/10.1126/scirobotics.aba8212.
-https://resou.osaka-u.ac.jp/en/research/2022/20220825_3
+
+* https://resou.osaka-u.ac.jp/en/research/2022/20220825_3
+* https://www.eurekalert.org/news-releases/971657
+* https://www.alphagalileo.org/en-gb/Item-Display/ItemId/227658
+* https://www.asiaresearchnews.com/content/microrobot-assembly-line
 
 <!--EndFragment-->
