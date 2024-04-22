@@ -2,11 +2,7 @@
 title: マイクロロボットを“流れ”作業で迅速に作製
 subtitle: 生体分子モーターによる人工筋肉で自在にプリント・動的再構成可能に
 date: 2022-08-26T04:00:37.548Z
-summary: |-
-  * https://resou.osaka-u.ac.jp/ja/research/2022/20220825_3
-  * https://www.gifu-u.ac.jp/news/research/2022/08/entry26-11797.html
-  * https://news.mynavi.jp/techplus/article/20220831-2439217/
-  * https://www.excite.co.jp/news/article/Cobs_2470978/
+summary: "* https://resou.osaka-u.ac.jp/ja/research/2022/20220825_3"
 draft: false
 featured: false
 categories:
