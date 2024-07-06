@@ -11,7 +11,7 @@ authors:
   - Yuichi Hiratsuka
   - Keisuke Morishima
 doi: https://doi.org/10.34133/cbsystems.0106
-publication: "*Cyborg and Bionic Systems*"
+publication: "*Cyborg and Bionic Systems, 5*"
 abstract: A printable artificial muscle assembled from biomolecular motors,
   which we have recently developed, showed great potential in overcoming the
   design limitations of conventional biohybrid robots as a new bio-actuator.
