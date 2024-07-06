@@ -9,7 +9,7 @@ authors:
   - Keisuke Morishima
   - Yuichi Hiratsuka
 doi: https://doi.org/10.1038/s41563-021-00969-6
-publication: "*Nature Materials, 20*(8)"
+publication: "*Nature Materials, 20*(8), 1149-1155"
 publication_short: ""
 abstract: Leveraging the motion and force of individual molecular motors in a
   controlled manner to perform macroscopic tasks can provide substantial
