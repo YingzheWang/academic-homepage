@@ -10,7 +10,7 @@ authors:
   - admin
   - Keisuke Morishima
 doi: 10.3390/computation10100179
-publication: "*Computation, 10*(10)"
+publication: "*Computation, 10*(10), 179"
 abstract: Biobot-based insects have been investigated so far for various
   applications such as search and rescue operations, environmental monitoring,
   and discovering the environment. These applications need a strong
