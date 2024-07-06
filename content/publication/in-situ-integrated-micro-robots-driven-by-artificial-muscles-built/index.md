@@ -31,7 +31,7 @@ authors:
   - Yuichi Hiratsuka
   - Keisuke Morishima
 doi: 10.1126/scirobotics.aba8212
-publication: "*Science Robotics, 7*(69)"
+publication: "*Science Robotics, 7*(69), eaba8212"
 projects:
   - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
 date: 2022-08-24T01:39:16.118Z
