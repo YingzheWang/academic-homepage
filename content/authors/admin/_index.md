@@ -39,7 +39,7 @@ education:
     - course: M.Eng. in Control Engineering
       institution: Zhejiang University
       year: 2016
-    - course: B.Eng. in Artificial Intelligence
+    - course: B.Eng. in Automation
       institution: Zhejiang University
       year: 2013
 email: ""
