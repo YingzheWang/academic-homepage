@@ -9,7 +9,7 @@ interests:
   - Bio-hybrid robotics
   - Micro-robotics
 social:
-  - icon: envelope
+  - icon: message
     icon_pack: fas
     link: /#contact
   - icon: twitter
