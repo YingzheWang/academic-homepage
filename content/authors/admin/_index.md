@@ -10,7 +10,7 @@ interests:
   - Micro-robotics
 social:
   - icon: message
-    icon_pack: fab
+    icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
