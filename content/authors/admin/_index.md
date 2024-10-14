@@ -12,6 +12,11 @@ social:
   - icon: message
     icon_pack: far
     link: /#contact
+  - display:
+      header: false
+    link: ywang@live.mech.eng.osaka-u.ac.jp
+    icon_pack: fab
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YingzheWang1991
