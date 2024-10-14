@@ -10,7 +10,7 @@ interests:
   - Micro-robotics
 social:
   - icon: message
-    icon_pack: far
+    icon_pack: fas
     link: /#contact
   - display:
       header: false
@@ -22,9 +22,6 @@ social:
     link: https://twitter.com/YingzheWang1991
     display:
       header: false
-  - icon: qq
-    icon_pack: fab
-    link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MRNgS7MAAAAJ&hl
