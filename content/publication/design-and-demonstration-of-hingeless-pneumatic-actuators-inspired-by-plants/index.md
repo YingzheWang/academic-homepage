@@ -7,6 +7,7 @@ authors:
   - Admin
   - Keisuke Morishima
 doi: 10.3390/biomimetics9100597
+publication: "*Biomimetics, 9*(10), 597"
 draft: false
 featured: false
 projects:
