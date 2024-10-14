@@ -18,7 +18,7 @@ social:
     display:
       header: false
   - icon: qq
-    icon_pack: far
+    icon_pack: fab
     link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
   - icon: google-scholar
     icon_pack: far
