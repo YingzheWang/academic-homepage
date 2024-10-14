@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     link: ywang@live.mech.eng.osaka-u.ac.jp
-    icon_pack: fab
+    icon_pack: fas
     icon: envelope
   - icon: twitter
     icon_pack: fab
