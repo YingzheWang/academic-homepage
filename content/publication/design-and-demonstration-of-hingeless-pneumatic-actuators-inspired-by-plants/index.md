@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Xiangli Zeng
-  - Yingzhe Wang
+  - Admin
   - Keisuke Morishima
 doi: 10.3390/biomimetics9100597
 draft: false
