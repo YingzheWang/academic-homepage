@@ -20,8 +20,8 @@ social:
   - icon: qq
     icon_pack: fab
     link: http://wpa.qq.com/msgrd?v=3&uin=408795906&site=qq&menu=yes
-  - icon: google-scholar-brands-solid
-    icon_pack: far
+  - icon: google-scholar
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=MRNgS7MAAAAJ&hl
   - display:
       header: false
