@@ -11,6 +11,8 @@ summary: |-
   https://www.eng.osaka-u.ac.jp/ja/topics/researchresult/19695/
 draft: false
 featured: false
+categories:
+  - Personal News
 image:
   filename: ""
   focal_point: Smart
