@@ -17,7 +17,7 @@ featured: false
 categories:
   - Research News
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
