@@ -2,7 +2,14 @@
 title: 生体分子モーターで動く人工筋肉、光で自在に作製可能
 subtitle: マイクロ・ソフトロボットの３Ｄプリントの実現に期待
 date: 2021-04-20T04:00:03.203Z
-summary: "* https://resou.osaka-u.ac.jp/ja/research/2021/20210420_1"
+summary: |-
+  <!--StartFragment-->
+
+  光照射した場所に自在な形状に作製できる人工筋肉の開発に成功
+
+  <!--EndFragment-->
+
+  https://resou.osaka-u.ac.jp/ja/research/2021/20210420_1
 draft: false
 featured: false
 categories:
