@@ -6,9 +6,9 @@ summary: |-
 
   機械工学専攻の髙橋成享さん（博士前期課程2年）が、日本機械学会 マイクロ・ナノ工学部門 若手優秀講演表彰を受賞しました。
 
-  * https://www.eng.osaka-u.ac.jp/ja/topics/researchresult/19695/
-
   <!--EndFragment-->
+
+  https://www.eng.osaka-u.ac.jp/ja/topics/researchresult/19695/
 draft: false
 featured: false
 image:
