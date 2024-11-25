@@ -14,6 +14,8 @@ summary: >-
   https://www.mdpi.com/journal/electronics/special_issues/3JZOR054L0
 draft: false
 featured: false
+categories:
+  - Research News
 image:
   filename: featured.png
   focal_point: Smart
