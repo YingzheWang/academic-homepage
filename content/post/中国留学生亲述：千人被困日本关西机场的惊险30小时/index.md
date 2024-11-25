@@ -2,8 +2,9 @@
 title: "中国留学生亲述：千人被困日本关西机场的惊险30小时 "
 date: 2018-09-06T04:00:45.949Z
 summary: |-
-  * https://www.sohu.com/a/252285192_561670
-  * https://www.chinanews.com.cn/gj/2018/09-06/8620498.shtml
+  https://www.sohu.com/a/252285192_561670
+
+  https://finance.ifeng.com/c/7fz1BHUMXMS
 draft: false
 featured: false
 categories:
@@ -19,7 +20,7 @@ image:
 
 6日，王颖哲向中新经纬讲述了其被困关西机场30小时的经历。
 
-* https://www.sohu.com/a/252285192_561670
-* https://www.chinanews.com.cn/gj/2018/09-06/8620498.shtml
+* https://www.sohu.com/a/252418922_384576
+* https://finance.ifeng.com/c/7fz1BHUMXMS
 
 <!--EndFragment-->
