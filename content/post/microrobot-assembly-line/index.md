@@ -8,7 +8,7 @@ summary: >-
   Researchers at Osaka University develop a method of the assembly, integration for 3D-printing soft modular reconfigurable microrobots based on self organized biomolecular motor muscles, which may lead to advances in nanotechnology and microsurgery.
 
 
-  * https://resou.osaka-u.ac.jp/en/research/2022/20220825_3
+  https://resou.osaka-u.ac.jp/en/research/2022/20220825_3
 
 
   <!--EndFragment-->
