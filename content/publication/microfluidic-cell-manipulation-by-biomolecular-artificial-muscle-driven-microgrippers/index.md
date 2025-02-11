@@ -4,15 +4,17 @@ title: Microfluidic cell manipulation by biomolecular artificial muscle-driven
 publication_types:
   - "1"
 authors:
-  - Yingzhe Wang
+  - admin
   - Xiangli Zeng
   - Takahiro Nitta
   - Yuichi Hiratsuka
   - Keisuke Morishima
-publication: 28rd International Conference on Miniaturized Systems for Chemistry
-  and Life Sciences (µTAS 2024)
+publication: "*28rd International Conference on Miniaturized Systems for
+  Chemistry and Life Sciences (µTAS 2024)*"
 draft: false
 featured: false
+projects:
+  - venous-valve-like-micro-check-valve
 image:
   filename: featured
   focal_point: Smart
