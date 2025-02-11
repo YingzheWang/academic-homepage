@@ -14,7 +14,7 @@ publication: "*28rd International Conference on Miniaturized Systems for
 draft: false
 featured: false
 projects:
-  - venous-valve-like-micro-check-valve
+  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
 image:
   filename: featured
   focal_point: Smart
