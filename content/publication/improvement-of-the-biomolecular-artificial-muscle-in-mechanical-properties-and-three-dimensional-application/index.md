@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Chao-Shin Hsu
   - Hinako Yoshimura
-  - admin; Takahiro Nitta
+  - admin
+  - Takahiro Nitta
   - Yuichi Hiratsuka
   - Keisuke Morishima
 doi: https://doi.org/10.1109/CBS61689.2024.10860667
