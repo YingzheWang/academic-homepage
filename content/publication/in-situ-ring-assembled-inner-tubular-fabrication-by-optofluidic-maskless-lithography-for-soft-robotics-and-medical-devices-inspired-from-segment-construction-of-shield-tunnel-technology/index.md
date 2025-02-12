@@ -1,7 +1,7 @@
 ---
 title: In-situ ring assembled inner tubular fabrication by optofluidic maskless
   lithography for soft robotics and medical devices inspired from segment
-  construction of shield tunnel technology.
+  construction of shield tunnel technology
 publication_types:
   - "1"
 authors:
