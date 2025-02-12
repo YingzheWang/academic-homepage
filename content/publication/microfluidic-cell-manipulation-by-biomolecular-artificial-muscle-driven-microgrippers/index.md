@@ -9,7 +9,7 @@ authors:
   - Takahiro Nitta
   - Yuichi Hiratsuka
   - Keisuke Morishima
-publication: "*28nd International Conference on Miniaturized Systems for
+publication: "*28th International Conference on Miniaturized Systems for
   Chemistry and Life Sciences (µTAS 2024)*"
 draft: false
 featured: false
