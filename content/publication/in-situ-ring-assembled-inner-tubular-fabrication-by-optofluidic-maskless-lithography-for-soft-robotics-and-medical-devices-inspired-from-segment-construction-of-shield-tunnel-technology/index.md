@@ -8,6 +8,7 @@ authors:
   - Yuki Kamiya
   - admin
   - Keisuke Morishima
+doi: 10.1109/MEMS61431.2025.10917398
 publication: "*2025 IEEE 38th International Conference on Micro Electro
   Mechanical Systems (MEMS)*"
 draft: false
