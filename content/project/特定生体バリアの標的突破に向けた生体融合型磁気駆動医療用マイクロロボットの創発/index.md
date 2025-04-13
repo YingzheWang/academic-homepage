@@ -7,7 +7,6 @@ featured: false
 authors:
   - admin
 tags:
-  - Bio-hybrid robotics
   - Micro-robotics
 categories: []
 links:
