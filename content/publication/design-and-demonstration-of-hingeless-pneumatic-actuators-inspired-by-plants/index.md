@@ -10,8 +10,7 @@ doi: 10.3390/biomimetics9100597
 publication: "*Biomimetics, 9*(10), 597"
 draft: false
 featured: false
-projects:
-  - analysis-of-plant-ultrafine-substances
+projects: []
 image:
   filename: featured
   focal_point: Smart
