@@ -12,9 +12,9 @@ tags:
 categories: []
 links:
   - url: https://www.jka-cycle.jp
-    icon: JKA
+    name: bootstrap
     icon_pack: custom
-    name: ""
+    icon: google scholar
 image:
   filename: featured.png
   focal_point: Smart
