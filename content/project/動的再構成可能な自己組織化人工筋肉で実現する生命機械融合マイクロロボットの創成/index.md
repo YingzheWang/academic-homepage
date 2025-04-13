@@ -4,6 +4,8 @@ subtitle: 科学研究費助成事業（科研費）(22H00196)
 date: 2022-03-31T16:25:37.578Z
 draft: false
 featured: false
+authors:
+  - 森島　圭祐
 links:
   - url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H00196/
     name: 科研費
