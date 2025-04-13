@@ -6,6 +6,8 @@ draft: false
 featured: false
 authors:
   - admin
+categories:
+  - Bio-hybrid robotics
 links:
   - url: https://www.jka-cycle.jp
     icon_pack: far
