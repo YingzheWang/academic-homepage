@@ -14,7 +14,7 @@ publication: "*28th International Conference on Miniaturized Systems for
 draft: false
 featured: false
 projects:
-  - 自己組織化人工筋肉によって実現する動的再構成可能ウエットロボティクスの創成
+  - マイクロロボットのブレークスルーを創発する分子人工筋肉バイオアクチュエータ
 image:
   filename: featured
   focal_point: Smart
