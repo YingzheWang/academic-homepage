@@ -13,7 +13,7 @@ categories: []
 links:
   - url: https://www.jka-cycle.jp
     icon_pack: null
-    name: https://www.jka-cycle.jp
+    name: ""
 image:
   filename: featured.png
   focal_point: Smart
