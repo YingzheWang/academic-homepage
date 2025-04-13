@@ -13,7 +13,7 @@ links:
     icon_pack: far
     name: ""
 image:
-  filename: banner1.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
