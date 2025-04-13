@@ -12,9 +12,9 @@ tags:
 categories: []
 links:
   - url: https://www.jka-cycle.jp
-    name: bootstrap
-    icon_pack: custom
-    icon: google scholar
+    name: JKA補助金
+    icon_pack: 
+    icon: 
 image:
   filename: featured.png
   focal_point: Smart
