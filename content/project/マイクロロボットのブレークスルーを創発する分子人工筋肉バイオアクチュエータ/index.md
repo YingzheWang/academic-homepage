@@ -6,6 +6,8 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - Bio-hybrid-robotics
 links:
   - url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K17229/
     name: 科研費
