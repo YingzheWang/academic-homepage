@@ -4,6 +4,8 @@ subtitle: 科学研究費助成事業（科研費）(24K17229)
 date: 2024-03-31T16:25:55.621Z
 draft: false
 featured: false
+authors:
+  - admin
 links:
   - url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K17229/
     name: 科研費
