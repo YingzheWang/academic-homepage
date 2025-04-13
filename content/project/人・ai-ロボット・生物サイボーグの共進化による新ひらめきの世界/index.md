@@ -12,6 +12,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+authors:
+  - 森島 圭祐
 tags:
   - Micro-robotics
 links:
