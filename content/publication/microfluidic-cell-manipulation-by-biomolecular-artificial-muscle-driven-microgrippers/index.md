@@ -14,7 +14,7 @@ publication: "*28th International Conference on Miniaturized Systems for
 draft: false
 featured: false
 projects:
-  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
+  - マイクロロボットのブレークスルーを創発する分子人工筋肉バイオアクチュエータ
 image:
   filename: featured
   focal_point: Smart
