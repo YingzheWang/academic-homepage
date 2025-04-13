@@ -31,7 +31,7 @@ content:
       tag: Microfluidics
     - name: Bio-hybrid robotics
       tag: Bio-hybrid robotics
-      name: Micro-robotics
+    - name: Micro-robotics
       tag: Micro-robotics
 
 design:
