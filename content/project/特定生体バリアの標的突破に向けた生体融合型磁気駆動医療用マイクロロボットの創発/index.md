@@ -2,6 +2,10 @@
 title: 特定生体バリアの標的突破に向けた生体融合型磁気駆動医療用マイクロロボットの創発
 subtitle: JKA補助金（競輪とオートレースの補助事業）(2025M-467)
 date: 2025-04-01T09:48:03.666Z
+summary: |-
+  <!--StartFragment-->
+
+  <!--EndFragment-->
 draft: false
 featured: false
 authors:
@@ -13,8 +17,8 @@ categories: []
 links:
   - url: https://www.jka-cycle.jp
     name: JKA補助金
-    icon_pack: 
-    icon: 
+    icon_pack: null
+    icon: null
 image:
   filename: featured.png
   focal_point: Smart
