@@ -12,7 +12,8 @@ tags:
 categories: []
 links:
   - url: https://www.jka-cycle.jp
-    icon_pack: null
+    icon: JKA
+    icon_pack: custom
     name: ""
 image:
   filename: featured.png

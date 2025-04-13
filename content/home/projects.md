@@ -31,6 +31,8 @@ content:
       tag: Microfluidics
     - name: Bio-hybrid robotics
       tag: Bio-hybrid robotics
+      name: Micro-robotics
+      tag: Micro-robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
