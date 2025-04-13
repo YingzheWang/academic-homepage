@@ -2,6 +2,10 @@
 title: 自己組織化人工筋肉によって実現する動的再構成可能ウエットロボティクスの創成
 subtitle: 科学研究費助成事業（科研費）(22H04951)
 date: 2022-03-31T16:17:22.360Z
+summary: |-
+  <!--StartFragment-->
+
+  <!--EndFragment-->
 draft: false
 featured: false
 authors:
