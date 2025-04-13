@@ -25,8 +25,7 @@ abstract: The Venus flytrap is a carnivorous plant that catches insects by
   intelligent soft robots.
 draft: false
 featured: false
-projects:
-  - analysis-of-plant-ultrafine-substances
+projects: []
 image:
   filename: featured
   focal_point: Smart
