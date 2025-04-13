@@ -6,6 +6,8 @@ draft: false
 featured: false
 authors:
   - 森島 圭祐
+tags:
+  - Bio-hybrid-robotics
 links:
   - url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04951/
     name: 科研費
