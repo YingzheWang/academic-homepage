@@ -2,6 +2,10 @@
 title: 動的再構成可能な自己組織化人工筋肉で実現する生命機械融合マイクロロボットの創成
 subtitle: 科学研究費助成事業（科研費）(22H00196)
 date: 2022-03-31T16:25:37.578Z
+summary: |-
+  <!--StartFragment-->
+
+  <!--EndFragment-->
 draft: false
 featured: false
 authors:
