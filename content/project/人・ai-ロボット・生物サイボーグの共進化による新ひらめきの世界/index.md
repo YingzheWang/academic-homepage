@@ -2,12 +2,8 @@
 title: 人・AI ロボット・生物サイボーグの共進化による新ひらめきの世界
 subtitle: ムーンショット型研究開発事業（目標3 研究開発プロジェクト）
 date: 2023-03-31T16:31:00.580Z
-summary: >-
+summary: |-
   <!--StartFragment-->
-
-
-  ![研究テーマ構成](https://www.jst.go.jp/moonshot/program/goal3/img/img_3A_morishima.jpg)
-
 
   <!--EndFragment-->
 draft: false
