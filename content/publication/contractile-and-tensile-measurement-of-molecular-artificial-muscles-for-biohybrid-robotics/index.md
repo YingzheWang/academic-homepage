@@ -33,7 +33,7 @@ abstract: A printable artificial muscle assembled from biomolecular motors,
 draft: false
 featured: false
 projects:
-  - contractile-measurement-of-biomolecular-artificial-muscle
+  - 動的再構成可能な自己組織化人工筋肉で実現する生命機械融合マイクロロボットの創成
 image:
   filename: featured
   focal_point: Smart
