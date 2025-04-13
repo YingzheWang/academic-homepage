@@ -21,8 +21,7 @@ abstract: In this paper, we present a simple in-plane micro check valve using a
   MEMS to be utilized in real application.
 draft: false
 featured: false
-projects:
-  - micro-check-valve-using-a-hydrogel-valve-core
+projects: []
 image:
   filename: featured
   focal_point: Smart
