@@ -15,7 +15,7 @@ publication: "*2024 IEEE International Conference on Cyborg and Bionic Systems (
 draft: false
 featured: false
 projects:
-  - micro-actuators-robots-driven-by-biomolecular-artificial-muscle
+  - マイクロロボットのブレークスルーを創発する分子人工筋肉バイオアクチュエータ
 image:
   filename: featured
   focal_point: Smart
