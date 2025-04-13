@@ -19,8 +19,7 @@ abstract: In this paper, we proposed a new venous valve-like
 draft: false
 url_pdf: uploads/publications/PG0688.pdf
 featured: false
-projects:
-  - venous-valve-like-micro-check-valve
+projects: []
 image:
   filename: featured
   focal_point: Smart
