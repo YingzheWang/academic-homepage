@@ -13,7 +13,7 @@ links:
     icon_pack: far
     name: ""
 image:
-  filename: null
+  filename: banner1.png
   focal_point: Smart
   preview_only: true
 ---
