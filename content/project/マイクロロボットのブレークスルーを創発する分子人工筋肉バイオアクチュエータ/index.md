@@ -2,7 +2,10 @@
 title: マイクロロボットのブレークスルーを創発する分子人工筋肉バイオアクチュエータ
 subtitle: 科学研究費助成事業（科研費）(24K17229)
 date: 2024-03-31T16:25:55.621Z
-summary: ""
+summary: |-
+  <!--StartFragment-->
+
+  <!--EndFragment-->
 draft: false
 featured: false
 authors:
