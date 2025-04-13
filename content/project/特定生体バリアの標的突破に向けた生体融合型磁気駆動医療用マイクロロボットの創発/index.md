@@ -7,9 +7,11 @@ featured: false
 authors:
   - admin
 links:
-  - url: https://www.jka-cycle.jp/?_ga=...
+  - url: https://www.jka-cycle.jp
+    icon_pack: far
+    name: ""
 image:
-  filename: banner1.png
+  filename: null
   focal_point: Smart
   preview_only: true
 ---
