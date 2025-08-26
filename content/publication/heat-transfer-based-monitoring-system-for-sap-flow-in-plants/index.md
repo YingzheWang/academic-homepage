@@ -3,7 +3,10 @@ title: Heat Transfer-Based Monitoring System for Sap Flow in Plants
 publication_types:
   - "1"
 author_notes:
-  - Yan Zhao; Yingzhe Wang; Xiangli Zeng; Keisuke Morishima
+  - Yan Zhao
+  - Admin
+  - Xiangli Zeng
+  - Keisuke Morishima
 doi: 10.1109/ICMA65362.2025.11120751
 publication: 2025 IEEE International Conference on Mechatronics and Automation (ICMA)
 abstract: Sap flow, the movement of water and nutrients through the vascular
