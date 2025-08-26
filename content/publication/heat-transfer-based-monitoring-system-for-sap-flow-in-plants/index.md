@@ -8,7 +8,7 @@ author_notes:
   - Xiangli Zeng
   - Keisuke Morishima
 doi: 10.1109/ICMA65362.2025.11120751
-publication: 2025 IEEE International Conference on Mechatronics and Automation (ICMA)
+publication: "*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*"
 abstract: Sap flow, the movement of water and nutrients through the vascular
   tissues of plants, is closely associated with key physiological processes such
   as photosynthesis and transpiration. Monitoring of sap flow is essential for
