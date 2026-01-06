@@ -8,7 +8,7 @@ authors:
   - admin
   - Keisuke Morishima
 doi: 10.1007/s42235-025-00828-z
-publication: "*Journal of Bionic Engineering*, 1-14"
+publication: "*Journal of Bionic Engineering*"
 abstract: Bio-inspired and bio-hybrid principles are used to design robots that
   imitate biological systems. Animals and insects are commonly selected as the
   prototype in this context due to their mobility. However, plants have been
