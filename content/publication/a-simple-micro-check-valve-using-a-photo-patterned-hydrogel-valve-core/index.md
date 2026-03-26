@@ -7,7 +7,7 @@ authors:
   - Kazuma Toyoda
   - Kaoru Uesugi
   - Keisuke Morishima
-doi: https://doi.org/10.1016/j.sna.2020.111878
+doi: 10.1016/j.sna.2020.111878
 publication: "*Sensors and Actuators A: Physical, 304*, 111878"
 abstract: Micro check valves play a pivotal role in many microfluidic systems.
   However, there is still an unmet need for low-cost check valves with good
