@@ -13,7 +13,7 @@ authors:
   - Ruqian Sun
   - Mingqiang Zhu
 doi: 10.1016/j.foodres.2026.119557
-publication: Food Research International, 239, 119557
+publication: "*Food Research International, 239*, 119557"
 draft: false
 featured: false
 image:
