@@ -31,7 +31,7 @@ content:
     street: 2-1 Yamadaoka
     city: Suita
     region: Osaka, JAPAN
-    postcode: '565-0071'
+    postcode: '565-0871'
     country: Japan
     country_code: JP
   coordinates:
