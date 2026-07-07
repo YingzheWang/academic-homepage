@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor 
-    company: Osaka University
+    company: The University of Osaka
     company_url: ''
     company_logo: osaka-u
     location: Osaka, JAPAN
@@ -37,7 +37,7 @@ experience:
       * Guide students' research
 
   - title: Specially Appointed Researcher (Full time)
-    company: Osaka University
+    company: The University of Osaka
     company_url: ''
     company_logo: osaka-u
     location: Osaka, JAPAN
@@ -50,7 +50,7 @@ experience:
       * Guide students' research
 
   - title: Specially Appointed Researcher (Part time)
-    company: Osaka University
+    company: The University of Osaka
     company_url: ''
     company_logo: osaka-u
     location: Osaka, JAPAN
