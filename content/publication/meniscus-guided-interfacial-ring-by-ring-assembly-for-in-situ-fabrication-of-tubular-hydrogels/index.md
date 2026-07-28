@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - Yuki Kamiya
-  - admin
-  - Keisuke Morishima
+  - admin*
+  - Keisuke Morishima*
 doi: 10.1002/adma.74064
 publication: "*Advanced Materials*, e74064"
 abstract: The fabrication of arteriole-scale blood vessel-like structures
