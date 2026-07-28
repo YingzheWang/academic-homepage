@@ -2,7 +2,6 @@
 title: Meniscus-Guided Interfacial Ring-by-Ring Assembly for In Situ Fabrication
   of Tubular Hydrogels
 publication_types:
-  - "0"
   - "2"
 authors:
   - Yuki Kamiya
