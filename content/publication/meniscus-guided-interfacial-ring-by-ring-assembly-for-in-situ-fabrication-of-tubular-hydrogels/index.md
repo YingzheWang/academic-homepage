@@ -8,7 +8,7 @@ authors:
   - admin
   - Keisuke Morishima
 doi: 10.1002/adma.74064
-publication: Advanced Materials
+publication: "*Advanced Materials*, e74064"
 abstract: The fabrication of arteriole-scale blood vessel-like structures
   remains a critical barrier in engineering thick, vascularized tissues. Despite
   advances in artery-scale tubular scaffolds and capillary-scale networks,
