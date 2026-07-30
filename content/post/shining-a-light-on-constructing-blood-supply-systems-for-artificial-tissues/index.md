@@ -11,6 +11,9 @@ summary: >-
   https://www.eurekalert.org/news-releases/1137991
 
 
+  <https://www.youtube.com/watch?v=RFDdAzpMO6U>
+
+
   <!--EndFragment-->
 draft: false
 featured: false
@@ -40,6 +43,8 @@ Hydrogel tubular structures could be created with controlled lumen sizes and com
 While the creation of fully functioning artificial tissues is still a long way off, this research paves the way for creating vascular models to investigate how the dream of artificial tissues and organs may one day become a reality. Beyond artificial organs, potential applications include drug discovery, disease modeling, food technology, soft robotics, and biohybrid systems.
 
 The article “Meniscus-Guided Interfacial Ring-by-Ring Assembly for In Situ Fabrication of Tubular Hydrogel Structures" was published in Advanced Materials at DOI: <https://doi.org/10.1002/adma.74064>
+
+<https://www.youtube.com/watch?v=RFDdAzpMO6U>
 
 * https://www.eurekalert.org/news-releases/1137991
 * https://www.alphagalileo.org/Item-Display/ItemId/276119
