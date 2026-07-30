@@ -11,9 +11,6 @@ summary: >-
   https://www.eurekalert.org/news-releases/1137991
 
 
-  <https://www.youtube.com/watch?v=RFDdAzpMO6U>
-
-
   <!--EndFragment-->
 draft: false
 featured: false
