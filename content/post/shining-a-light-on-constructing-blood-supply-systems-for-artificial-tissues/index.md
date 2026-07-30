@@ -15,7 +15,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: https://www.youtube.com/watch?v=RFDdAzpMO6U&t=4s
+  filename: tubular.png
   focal_point: Smart
   preview_only: false
 ---
