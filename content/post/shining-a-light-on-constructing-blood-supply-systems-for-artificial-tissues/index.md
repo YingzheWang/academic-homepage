@@ -8,6 +8,9 @@ summary: >-
   Researchers from the University of Osaka have developed a novel method for the photofabrication of tubular hydrogels, which may form the basis for constructing vascularization networks for artificial tissues in the future
 
 
+  https://www.eurekalert.org/news-releases/1137991
+
+
   <!--EndFragment-->
 draft: false
 featured: false
