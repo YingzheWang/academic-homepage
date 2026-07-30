@@ -12,7 +12,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.youtube.com/watch?v=RFDdAzpMO6U&t=4s
   focal_point: Smart
   preview_only: false
 ---
