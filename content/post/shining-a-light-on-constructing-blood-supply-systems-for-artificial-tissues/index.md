@@ -20,6 +20,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Concept of meniscus-guided interfacial ring-by-ring assembly for in
+    situ fabrication of tubular hydrogels
 ---
 <!--StartFragment-->
 
