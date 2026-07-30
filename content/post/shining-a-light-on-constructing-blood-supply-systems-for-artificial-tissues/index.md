@@ -14,6 +14,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+categories:
+  - Research News
 image:
   filename: tubular.png
   focal_point: Smart
