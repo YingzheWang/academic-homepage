@@ -15,7 +15,7 @@ authors:
   - Fang Gu
   - Ruqian Sun
 doi: 10.1016/j.sna.2026.118327
-publication: "*Sensors and Actuators A: Physical*, 118327."
+publication: "*Sensors and Actuators A: Physical*, 118327"
 abstract: Flexible sensors are increasingly required in extreme environments,
   including deep-sea, polar, aerospace, high-temperature, and corrosive
   scenarios, where conventional soft devices suffer from thermodynamic
