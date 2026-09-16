@@ -7,7 +7,7 @@ authors:
   - admin
   - Keisuke Morishima
 doi: https://doi.org/10.1038/s41598-024-82156-6
-publication: "*Scientific Reports, 15*(1), 1-12"
+publication: "*Scientific Reports, 15*(1), 4805"
 abstract: The Venus flytrap is a carnivorous plant that catches insects by
   snapping rapidly and reopening slowly. To understand the mechanism underlying
   this asymmetrically reversible motion, a three-dimensional laser profiler was
